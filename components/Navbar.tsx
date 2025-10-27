@@ -10,7 +10,7 @@ const navLinks = [
   { name: "Dashboard", href: "/" },
   { name: "Projects", href: "/projects" },
   { name: "Analytics", href: "/analytics" },
-  { name: "Team", href: "/team" },
+  { name: "Teamates", href: "/team" },
 ];
 
 export default function Navbar() {
